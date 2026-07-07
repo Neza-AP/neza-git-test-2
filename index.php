@@ -7,5 +7,10 @@
 <body>
     <h1>belajar remote </h1>
     <p> isian</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
